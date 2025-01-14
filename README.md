@@ -1,5 +1,5 @@
 ### About me
-I'm Ayden DeShone. I am a beginer developer but I enjoy making video games.
+I'm Ayden DeShone. I am a beginer programer and I enjoy making video games.
 
 ### Projects
 nothing here yet.
