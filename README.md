@@ -11,10 +11,10 @@ nothing here yet.
 I am very motivated. I know C# and am learning Java and Python. I have made many small games in and out of school. And I have taken several classes to improve my coding skills.
 
 ### Technology Stack 
-* Java
 * Python
 * C#
-* CS code
+* Lua
+* VS code
 * GitHub
 * Unity
 
