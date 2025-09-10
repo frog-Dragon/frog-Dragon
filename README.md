@@ -14,9 +14,11 @@ I am very motivated. I know C# and am learning Java and Python. I have made many
 * Python
 * C#
 * Lua
+* Java
 * VS code
 * GitHub
 * Unity
+* Godot
 
 ### GitHub Stats
    <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
