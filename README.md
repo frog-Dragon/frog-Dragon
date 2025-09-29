@@ -8,7 +8,7 @@ nothing here yet.
 <a href='mailto:ayden.deshone@gmail.com'>ayden.deshone@gmail.com</a>
 
 ### Professional Summary
-I am very motivated. I know C# and am learning Java and Python. I have made many small games in and out of school. And I have taken several classes to improve my coding skills.
+I am very motivated. I know C#, Python, abd Lua and I'm learning Java and Gdscript. I have made many small games in and out of school and I have taken several classes to improve my coding skills.
 
 ### Technology Stack 
 * Python
